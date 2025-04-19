@@ -23,8 +23,16 @@ The project is also a hands-on application of concepts from portfolio theory and
 
 ## 📁 Project Structure
 
-<pre> <code>```text monte-carlo-stock-risk-simulator/ ├── monte_carlo_simulation.ipynb # Main notebook  ├── outputs/ # Folder containing visualizations │ ├── return_distribution.png │ └── simulation_paths.png ├── requirements.txt # Python libraries ├── .gitignore # Hidden files to ignore └── README.md # You're here! ```</code> </pre>
-
+```
+monte-carlo-stock-risk-simulator/
+├── monte_carlo_simulation.ipynb       # Main notebook
+├── outputs/                           # Folder containing visualizations
+│   ├── return_distribution.png
+│   └── simulation_paths.png
+├── requirements.txt                   # Python libraries
+├── .gitignore                         # Hidden files to ignore
+└── README.md                          # You're here!
+```
 
 ---
 
