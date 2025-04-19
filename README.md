@@ -38,10 +38,10 @@ monte-carlo-stock-risk-simulator/
 
 ## 📈 Sample Results
 
-- **Expected 1-Year Return**: ~X%
-- **Downside Risk**: ~Y%
-- **Probability of Return > 10%**: ~Z%
-- **Probability of Return < –5%**: ~W%
+- **Expected 1-Year Return**: **12.76%**
+- **Downside Risk (std of negative returns)**: **7.77%**
+- **Probability of Return > 10%**: **52.24%**
+- **Probability of Return < –5%**: **19.01%**
 
 _(These results change with each run based on the simulated data)_
 
