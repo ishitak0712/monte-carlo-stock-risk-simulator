@@ -23,7 +23,7 @@ The project is also a hands-on application of concepts from portfolio theory and
 
 ## 📁 Project Structure
 
-monte-carlo-stock-risk-simulator/ │ ├── monte_carlo_simulation.ipynb # Main notebook ├── outputs/ # Folder containing visualizations │ ├── return_distribution.png │ └── simulation_paths.png ├── requirements.txt # Python libraries ├── .gitignore # Hidden files to ignore └── README.md # You're here!
+<pre> <code>```text monte-carlo-stock-risk-simulator/ ├── monte_carlo_simulation.ipynb # Main notebook  ├── outputs/ # Folder containing visualizations │ ├── return_distribution.png │ └── simulation_paths.png ├── requirements.txt # Python libraries ├── .gitignore # Hidden files to ignore └── README.md # You're here! ```</code> </pre>
 
 
 ---
@@ -58,6 +58,6 @@ This was also an opportunity to deepen my understanding of portfolio risk, retur
 ## 📬 Contact
 
 **Ishita Kapoor**  
-Email: [ishitakapoor2k@gmail.com]  
+Email: [ishitakapoor2k@gmail.com](mailto:ishitakapoor2k@gmail.com)  
 GitHub: [github.com/ishitak0712](https://github.com/ishitak0712)  
 LinkedIn: [linkedin.com/in/kapoorishita](https://linkedin.com/in/kapoorishita)
